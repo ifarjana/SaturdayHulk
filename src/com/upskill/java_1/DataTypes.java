@@ -11,13 +11,13 @@ System.out.println("Hello World, This is Farzana");
 		2. non-primitive : Not defined by Java (class, array, object)
  */
 
-	int a = 30;
+	int a = 96;
 	int b = 55;
 	int c = a + b;
 	System.out.println(c);
 	
 	String city = "New York";
-	String state = "Ny";
+	String state = "New York";
 	
 	System.out.println(city);
 	System.out.println(state);
